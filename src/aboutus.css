@@ -1,0 +1,320 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.about {
+
+    flex: 1;
+    flex-direction: row;
+    display: flex;
+
+}
+
+.teamHeading {
+    /* margin-inline: -5%; */
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    flex: 0.2;
+}
+
+.virvijay {
+    flex-direction: row;
+    display: flex;
+    flex: 1;
+}
+
+.virvijayimg {
+    height: 700px;
+    width: 700px;
+}
+
+.whiteBorder {
+    height: 5px;
+    width: 70%;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.ourTeam {
+    margin-inline: 2%;
+    color: #fff;
+    font-size: 42px;
+    width: 38%;
+    display: flex;
+    align-self: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.teamList {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 10%;
+    margin-top: 5%;
+    padding: 10px;
+}
+
+.pioneerheading{
+    color: #fff;
+    font-size: 48px;
+    font-weight: 700;
+    padding: 3%;
+    margin-top: 5%;
+    align-self: center;
+}
+.visionheading {
+    color: #fff;
+    font-size: 48px;
+    font-weight: 700;
+    padding: 3%;
+    margin-top: 5%;
+    align-self: center;
+}
+
+.pioneertext {
+    padding: 2%;
+    margin-inline: 5%;
+    color: #fff;
+    text-align: justify;
+    font-size: 18px;
+    font-weight: 100;
+}
+
+.visionwhite {
+    /* height: 5,
+    backgroundColor: "#fff", */
+
+    height: 5px;
+    background-color: #fff;
+    display: flex;
+    width: 100%;
+    /* width: min-content; */
+
+}
+
+.pioneerwhite {
+   height: 5px;
+   display: flex;
+   width: 50%;
+   /* width: fit-content; */
+   background-color:#fff;
+}
+
+.innovationtext {
+
+    padding: 5%;
+    text-align: center;
+    display: flex;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 100;
+}
+
+.virtext {
+    color: #fff;
+    font-size: 52px;
+    font-weight: 700;
+}
+
+.titletext {
+    color: #fff;
+    font-size: 36px;
+    font-weight: 100;
+}
+
+.ceotext {
+    color: #fff;
+    font-size: 20px;
+    text-align: justify;
+    font-weight: 100;
+}
+
+.innovatingtext{
+    padding: 5%;
+    color: #fff;
+    font-size: 72px;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    display: flex;
+}
+
+@media screen and (max-width: 998px) {
+    .innovatingtext{
+        padding: 5%;
+        color: #fff;
+        font-size: 24px;
+        text-align: center;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        display: flex;
+    }
+    .ceotext {
+        color: #fff;
+        font-size: 12px;
+        text-align: left;
+        font-weight: 100;
+    }
+
+    .titletext {
+        color: #fff;
+        font-size: 22px;
+        font-weight: 100;
+    }
+
+    .virtext {
+        color: #fff;
+        font-size: 32px;
+        font-weight: 700;
+    }
+
+    .innovationtext {
+        padding: 5%;
+        text-align: center;
+        display: flex;
+        color: #fff;
+        font-size: 12px;
+        font-weight: 100;
+    }
+
+    .visionwhite {
+        display: none;
+    }
+
+    .pioneerwhite {
+        display: none;
+    }
+
+    .pioneertext {
+        padding: 2%;
+        margin-inline: 5%;
+        color: #fff;
+        text-align: left;
+        font-size: 12px;
+        font-weight: 100;
+    }
+    .pioneerheading{
+        background-color: #fff;
+        font-size: 20px;
+        font-weight: 700;
+        margin-inline: 5%;
+        margin-left: 4%;
+        color: #055591;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        align-self: center;
+        margin-block: 20px;
+        padding: 3%;
+        /* width: 100%; */
+        width: 400px;
+        height: 20px;
+    }
+
+    .visionheading {
+        background-color: #fff;
+        font-size: 20px;
+        font-weight: 700;
+        margin-inline: 5%;
+        /* margin-left: 4%; */
+        color: #055591;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        align-self: center;
+        padding: 3%;
+        /* width: 100%; */
+        width: 300px;
+        height: 10px;
+    }
+
+    .about {
+        background-color: #055591;
+        flex: 1;
+        flex-direction: column;
+        display: flex;
+    }
+
+    .virvijayimg {
+        height: 300px;
+        width: 300px;
+        align-self: center;
+    }
+
+    .teamHeading {
+        /* margin-inline: -5%; */
+        flex-direction: column;
+        width: 110%;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        display: flex;
+        flex: 0.2;
+    }
+
+    .ourTeam {
+        /* color: #fff;
+        font-size: 42px;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        align-self: center;
+        display: flex;
+        margin-right: 5rem; */
+        width: 60%;
+        background-color: #fff;
+        font-size: 21px;
+        color: #055591;
+        border-radius: 10px;
+        display: flex;
+        flex: 1;
+        align-self: center;
+        justify-content: center;
+        align-items: center;
+        margin-left: -6%;
+        /* margin-inline: 50px; */
+        font-weight: 700;
+        padding: 10px;
+    }
+
+    .teamList {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        text-align: center;
+        color: #fff;
+        padding: 10px;
+    }
+
+    .virvijay {
+        flex-direction: column;
+        display: flex;
+        flex: 1;
+        align-items: center;
+    }
+
+    .whiteBorder {
+        /* height: 5px;
+        width: 100%;
+        background-color: #fff;
+        margin: 0;
+        padding: 0; */
+        display: none;
+    }
+}
