@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de6c13b1.css",
+    "main.js": "/static/js/main.6c273626.js",
+    "static/js/787.83d57523.chunk.js": "/static/js/787.83d57523.chunk.js",
+    "static/media/graphsVideo.mp4": "/static/media/graphsVideo.2546c5b1b4895091881d.mp4",
+    "static/media/nightCity.mp4": "/static/media/nightCity.60a7aba3b340506a250f.mp4",
+    "static/media/bridgeVideo.mp4": "/static/media/bridgeVideo.c0842379778987467c42.mp4",
+    "static/media/dayVideo.mp4": "/static/media/dayVideo.6e1940524d2f514100df.mp4",
+    "static/media/nightVideo.mp4": "/static/media/nightVideo.91dca3fc4cce9e8a1279.mp4",
+    "static/media/dollarVideo.mp4": "/static/media/dollarVideo.772b3ad3ef3a7c469b57.mp4",
+    "static/media/HomeImage.png": "/static/media/HomeImage.b50f1fd98623403dd831.png",
+    "static/media/HomeImage.gif": "/static/media/HomeImage.46a82b20deb9b11650aa.gif",
+    "static/media/VirVijayMakwana.png": "/static/media/VirVijayMakwana.8a5e06b5aef5db1c7773.png",
+    "static/media/BlueWhite.png": "/static/media/BlueWhite.bc4aae97237115b937bc.png",
+    "static/media/vrundavanbliss.png": "/static/media/vrundavanbliss.66ad67011f0728d6948f.png",
+    "static/media/ZILLION.png": "/static/media/ZILLION.370af774a2447baa6ae6.png",
+    "static/media/KavitaSahani.png": "/static/media/KavitaSahani.58065c018541c1ba3f50.png",
+    "static/media/DeepPatel.png": "/static/media/DeepPatel.e298362c9064b8833fa3.png",
+    "static/media/SonalPatel.png": "/static/media/SonalPatel.56e0f1b4c4bbd844146b.png",
+    "static/media/AdityaIndulkar.png": "/static/media/AdityaIndulkar.249085737f654c40d529.png",
+    "static/media/SakshiThaker.png": "/static/media/SakshiThaker.7b0612968c3acb9f2f0f.png",
+    "static/media/RaviYadav.png": "/static/media/RaviYadav.52813c5089fbfc2e6de7.png",
+    "static/media/serene_edfice.png": "/static/media/serene_edfice.28379017f2e26b7209f9.png",
+    "static/media/insta.png": "/static/media/insta.7fac78f343ec2322b539.png",
+    "static/media/NYSA.png": "/static/media/NYSA.73041d4dcb5dd984488f.png",
+    "static/media/whitegraphics.png": "/static/media/whitegraphics.c87faad9fdabb3bf8f60.png",
+    "static/media/AMALTASlogo.png": "/static/media/AMALTASlogo.1f1e3a1874a5ac5917ae.png",
+    "static/media/OPULENT.png": "/static/media/OPULENT.f0ea6cba52976ea24898.png",
+    "static/media/linkedin.png": "/static/media/linkedin.d0a739aa94fb7a4444b1.png",
+    "static/media/k10.png": "/static/media/k10.18fff97d94ebdf115594.png",
+    "static/media/96.png": "/static/media/96.9739506f7ffbd0577d5e.png",
+    "static/media/fb.png": "/static/media/fb.a85da3ada0b392b2ccf4.png",
+    "index.html": "/index.html",
+    "main.de6c13b1.css.map": "/static/css/main.de6c13b1.css.map",
+    "main.6c273626.js.map": "/static/js/main.6c273626.js.map",
+    "787.83d57523.chunk.js.map": "/static/js/787.83d57523.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de6c13b1.css",
+    "static/js/main.6c273626.js"
+  ]
+}
