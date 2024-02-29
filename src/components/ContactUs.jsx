@@ -42,7 +42,7 @@ function ContactUs({ showmodal, setShowModal }) {
                 To: "mrvirvijaymakwana@gmail.com",
                 From: formState.email,
                 Subject: `${formState.name} connected to you from website virinfra`,
-                Body: `${formState.name} connected to you from website virinfra`
+                Body: `${formState.name} connected to you from website virinfra, user's Contact No ${formState.contactNo} and mail ${formState.email}`
             };
             if (window.Email) {
                 window.Email.send(config).then(message => alert(message))
@@ -59,7 +59,7 @@ function ContactUs({ showmodal, setShowModal }) {
                 To: "mrvirvijaymakwana@gmail.com",
                 From: formState.email,
                 Subject: `${formState.name} connected to you from website virinfra`,
-                Body: `${formState.name} connected to you from website virinfra, message is ${formState.message}`
+                Body: `${formState.name} connected to you from website virinfra,, user's Contact No ${formState.contactNo} and mail ${formState.email} message is ${formState.message}`
             };
             if (window.Email) {
                 window.Email.send(config).then(message => alert(message))
